@@ -4,7 +4,7 @@
 </p>
 This repository contains a simple Android application that demonstrates how to integrate and use the Google Gemini API. It serves as a quick-start guide for developers looking to add generative AI capabilities to their Android projects.
 
-### Purpose of this repository
+### Purpose of this repository?
 
 This repository was created as a companion sample project for my article on Medium.<br>
 **[Read the full article on Medium](https://medium.com/@your_username/your-article-slug)**
