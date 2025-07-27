@@ -13,7 +13,7 @@ This repository contains a simple Android application that demonstrates how to i
 ### Purpose of this repository?
 
 This repository was created as a companion sample project for my article on Medium.<br>
-**[Read the full article on Medium](https://medium.com/@your_username/your-article-slug)**
+**[Read the full article on Medium](https://medium.com/@kamyab9k/how-to-integrate-gemini-api-into-your-android-project-80fe8422a9d8)**
 
 ---
 
@@ -60,5 +60,5 @@ Follow these steps to get the app running on your device or emulator.
 The app will automatically make an API call and display the AI's response on the screen upon launch.<br>
 The prompt can be changed from the Main Activity.
 
-📍 **[Read the full article on Medium](https://medium.com/@your_username/your-article-slug)**
+📍 **[Read the full article on Medium](https://medium.com/@kamyab9k/how-to-integrate-gemini-api-into-your-android-project-80fe8422a9d8)**
 ---
