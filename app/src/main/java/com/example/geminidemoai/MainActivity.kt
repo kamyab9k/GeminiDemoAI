@@ -44,7 +44,7 @@ class MainActivity : ComponentActivity() {
         // TODO: **WARNING: Do not do this for production or public code.
         // This is a significant security risk.
         // This is only for a quick, private sample.
-        val apiKey = "AIzaSyCOjQ8OQ8DJjGj3_VpjmirwZx-6tfjuttE"
+        val apiKey = "YourAPIKey"
         val modelName = "gemini-2.5-flash"
         val geminiRepository = GeminiRepository(
             apiKey = apiKey,
