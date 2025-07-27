@@ -1,8 +1,14 @@
 # How to integrate the Gemini API into your Android project?
 <p align="center">
   <img width="1431" height="753" alt="Gemini_Medium_Cover" src="https://github.com/user-attachments/assets/0c75537b-7893-422d-88d4-335332be40e0" />
-</p>
-This repository contains a simple Android application that demonstrates how to integrate and use the Google Gemini API. It serves as a quick-start guide for developers looking to add generative AI capabilities to their Android projects.
+   <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg"/></a>
+  <a href="https://android-arsenal.com/api?level=24"><img alt="API" src="https://img.shields.io/badge/API-24%2B-brightgreen.svg?style=flat"/></a>
+  <a href="https://github.com/kamyab9k"><img alt="Profile" src="https://img.shields.io/badge/GitHub-Kamyab%20Khosravi-blue?style=flat&link=https%3A%2F%2Fgithub.com%2Fkamyab9k"/></a>
+<a href="https://www.linkedin.com/in/kamyab-khosravi-5214551a4/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
+  <a href="https://medium.com/@kamyab9k"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white"/></a></p>
+  
+
+This repository contains a simple Android application that demonstrates how to integrate and use the Google Gemini API. It serves as a quick-start guide for developers seeking to incorporate generative AI capabilities into their Android projects.
 
 ### Purpose of this repository?
 
