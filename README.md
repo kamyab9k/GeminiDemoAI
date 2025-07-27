@@ -1,10 +1,11 @@
-# How to integerate Gemini API to your sample project?
+# How to integrate the Gemini API into your sample project?
 
-This repository contains a simple Android application that demonstrates how to integrate and use the Google Gemini API. It serves as a quickstart guide for developers looking to add generative AI capabilities to their Android projects.
+This repository contains a simple Android application that demonstrates how to integrate and use the Google Gemini API. It serves as a quick-start guide for developers looking to add generative AI capabilities to their Android projects.
 
 ### Purpose of this repository
 
-This repository was created as a companion sample project for my article on Medium.**[Read the full article on Medium](https://medium.com/@your_username/your-article-slug)**
+This repository was created as a companion sample project for my article on Medium.
+**[Read the full article on Medium](https://medium.com/@your_username/your-article-slug)**
 
 ---
 
