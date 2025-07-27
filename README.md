@@ -1,5 +1,7 @@
 # How to integrate the Gemini API into your sample project?
-
+<p align="center">
+  <img width="1431" height="753" alt="Gemini_Medium_Cover" src="https://github.com/user-attachments/assets/0c75537b-7893-422d-88d4-335332be40e0" />
+</p>
 This repository contains a simple Android application that demonstrates how to integrate and use the Google Gemini API. It serves as a quick-start guide for developers looking to add generative AI capabilities to their Android projects.
 
 ### Purpose of this repository
