@@ -63,7 +63,6 @@ class GeminiRepository(
             .post(requestBody)
             .build()
 
-// Use withContext(Dispatchers.IO) to perform the network call on a background thread.
         val responseString = withContext(Dispatchers.IO) {
             client.newCall(request).execute().use { response ->
                 if (!response.isSuccessful) {
@@ -86,7 +85,6 @@ class GeminiRepository(
                     val firstPart = parts.optJSONObject(0)
                     if (firstPart != null) {
                         val text = firstPart.optString("text")
-                        // Success! Return the generated text.
                         if (!text.isNullOrEmpty()) {
                             return Result.Success(text)
                         }
