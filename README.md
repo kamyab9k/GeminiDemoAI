@@ -4,7 +4,7 @@ This repository contains a simple Android application that demonstrates how to i
 
 ### Purpose of this repository
 
-This repository was created as a companion sample project for my article on Medium.
+This repository was created as a companion sample project for my article on Medium.<br>
 **[Read the full article on Medium](https://medium.com/@your_username/your-article-slug)**
 
 ---
