@@ -1,4 +1,4 @@
-# How to integrate the Gemini API into your sample project?
+# How to integrate the Gemini API into your Android project?
 <p align="center">
   <img width="1431" height="753" alt="Gemini_Medium_Cover" src="https://github.com/user-attachments/assets/0c75537b-7893-422d-88d4-335332be40e0" />
 </p>
@@ -43,7 +43,7 @@ Follow these steps to get the app running on your device or emulator.
     * **Recommended (Secure):** In your project's `local.properties` file, add your API key like this:
         ```properties
         gemini.api.key=YOUR_API_KEY
-        gemini.model.name=gemini-pro
+        gemini.model.name=gemini-model
         ```
     * **Quick Test (Not Secure):** For a quick test, you can hardcode your API key in `MainActivity.kt`. **Note: This is a security risk and should not be used in production code.**
 
@@ -53,5 +53,5 @@ Follow these steps to get the app running on your device or emulator.
 
 The app will automatically make an API call and display the AI's response on the screen upon launch.<br>
 
-**[Read the full article on Medium](https://medium.com/@your_username/your-article-slug)**
+📍 **[Read the full article on Medium](https://medium.com/@your_username/your-article-slug)**
 ---
