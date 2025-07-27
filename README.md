@@ -23,7 +23,7 @@ This repository was created as a companion sample project for my article on Medi
 
 Follow these steps to get the app running on your device or emulator.
 
-### Prerequisites✅
+### Prerequisites
 
 * Android Studio
 * A physical device or an Android Emulator
@@ -34,7 +34,7 @@ Follow these steps to get the app running on your device or emulator.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/Gemini-Android-Sample.git](https://github.com/your-username/Gemini-Android-Sample.git)
+    git clone https://github.com/kamyab9k/GeminiDemoAI.git
     ```
 
 2.  **Add your API Key:**
@@ -49,6 +49,7 @@ Follow these steps to get the app running on your device or emulator.
     * Sync your Gradle project.
     * Run the app on a connected device or emulator from Android Studio.
 
-The app will automatically make an API call and display the AI's response on the screen upon launch.
+The app will automatically make an API call and display the AI's response on the screen upon launch.<br>
 
+**[Read the full article on Medium](https://medium.com/@your_username/your-article-slug)**
 ---
