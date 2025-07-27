@@ -58,6 +58,7 @@ Follow these steps to get the app running on your device or emulator.
     * Run the app on a connected device or emulator from Android Studio.
 
 The app will automatically make an API call and display the AI's response on the screen upon launch.<br>
+The prompt can be changed from the Main Activity.
 
 📍 **[Read the full article on Medium](https://medium.com/@your_username/your-article-slug)**
 ---
