@@ -36,7 +36,7 @@ Follow these steps to get the app running on your device or emulator.
 * Android Studio
 * A physical device or an Android Emulator
 * A [Google Gemini API Key](https://ai.google.dev/)
-* For a detailed explanation **[Read the full article on Medium](https://medium.com/@your_username/your-article-slug)**
+* For a detailed explanation **[Read the full article on Medium](https://medium.com/@kamyab9k/how-to-integrate-gemini-api-into-your-android-project-80fe8422a9d8)**
 
 ### Setup
 
