@@ -57,8 +57,15 @@ Follow these steps to get the app running on your device or emulator.
     * Sync your Gradle project.
     * Run the app on a connected device or emulator from Android Studio.
 
-The app will automatically make an API call and display the AI's response on the screen upon launch.<br>
+    <br>
+
+📱The app will automatically make an API call and display the AI's response on the screen upon launch.<br>
 The prompt can be changed from the Main Activity.
+<p align="center">
+<img width="1926" height="1080" alt="Group 1000002175" src="https://github.com/user-attachments/assets/f3302b13-6dd0-43a0-8e7d-fcdc29c0f5c5" />
+</a></p>
+
+<br>
 
 📍 **[Read the full article on Medium](https://medium.com/@kamyab9k/how-to-integrate-gemini-api-into-your-android-project-80fe8422a9d8)**
 ---
